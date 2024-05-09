@@ -1,0 +1,7 @@
+What is GO?
+Go is a fast statically typed, compiled language.
+Go is a general purpose language. (can be used to build web-app, rest api, cloud services)
+Go has built-in testing support.
+Go is an object-oriented language. 
+Note: But we don't have classes/constructors to create object. but we can use struct or interfaces to mirror the functionality.
+ 
