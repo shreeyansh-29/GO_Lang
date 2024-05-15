@@ -1,0 +1,2 @@
+GO is a Pass-by-value language. GO makes "copies" of values when passed into functions.
+
